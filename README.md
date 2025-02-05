@@ -4,7 +4,7 @@ osint, cybersec, opsec, fun
 
 ## 🚨 Projects Worth Checking Out  
 
-**[Opsec Guide]([link](https://github.com/whos-zycher/opsec-guide))** –  comprehensive opsec guide covering anonymity, privacy, and security practices.  
+**[Opsec Guide](https://github.com/whos-zycher/opsec-guide)** –  comprehensive opsec guide covering anonymity, privacy, and security practices.  
 
 📌 More coming soon. Or not. We'll see.  
 
